@@ -1,1 +1,1 @@
-[View Report](https://github.com/William-07/Insurance-Fee-Analysis/blob/main/Report/Insurance%20Fee%20Analysis_Report.pdf)
+[View Report](https://github.com/William-07/Exploratory-Data-Analysis-of-Hospital-Charges-for-Insurance-Pricing-Strategy/blob/main/Report/Exploratory%20Data%20Analysis%20of%20Hospital%20Charges%20for%20Insurance%20Pricing%20Strategy_Report.pdf)
